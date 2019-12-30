@@ -2,6 +2,7 @@
     <div>
         <h1>controller</h1>
         <p>page</p>
+        hello
     </div>
 </template>
 
